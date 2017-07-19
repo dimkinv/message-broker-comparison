@@ -1,0 +1,19 @@
+{
+  "name": "kafka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tscw": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/kafka-node": "^1.3.5"
+  },
+  "dependencies": {
+    "kafka-node": "^2.0.1"
+  }
+}
