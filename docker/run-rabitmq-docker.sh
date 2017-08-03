@@ -1,0 +1,1 @@
+docker-compose -f ./rabbitmq-compose.yml up -d
